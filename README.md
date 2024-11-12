@@ -9,13 +9,13 @@
 
 🎓 Eu estudo Análise e desenvolvimento de Sistemas na Universidade São Francisco com regimento EAD e previsão de conclusão para 06/2025 
 
-👩‍💻 Atualmente eu trabalho como Estágiario de Desenvolvimento @ Business Integrator
+👩‍💻 Atualmente eu trabalho como Desenvolvedor Jr @ Hetosoft Sistemas
 
 🔎 Também sou curioso sobre Carros
 
 ✒️ Eu gosto de no meu tempo livre Fazer exercícios físicos, tocar instrumentos e participar de eventos automotivos;
 
-📚 Lendo: Código limpo e Foco a atenção e seu papel fundamental para o sucesso
+📚 Lendo: Código limpo
 
 ### Eu já trabalhei com... 🔧
 
